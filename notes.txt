@@ -1,0 +1,25 @@
+setting up parsers for form
+
+*app.use(express.json());
+app.use(express.urlencoded({ extended: true }));* b   
+
+
+setting up ejs for ejs pages
+    install ejs from npm
+    setup ejs as a view engine...
+
+setting up public static files
+
+dynamic routing
+       dynamic routing
+
+- Sabse pehle browser pe jaana hai 
+- Phir koi bhi url likho joh bhi tumhe chahiye...
+- Ab us url ka route ko create karna hai...
+- response bhejna hai kuch bhi like it's working...
+** ab usi url ko agar dynamic banana hai toh realise karo konsa part dynamic hai aur us part ke aage route mein : yeh laga do.
+
+
+
+       how to get data coming from frontend at backend route
+
