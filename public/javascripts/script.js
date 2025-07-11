@@ -1,0 +1,1 @@
+alert("Hi!!! This is a JavaScript file linked to EJS page.");
