@@ -23,3 +23,17 @@ dynamic routing
 
        how to get data coming from frontend at backend route
 
+...........
+
+backend have 2 server 
+
+Application server 
+Data base server 
+
+Database -> Collections -> Document 
+Code
+
+mongoose.connect -> Database create 
+model create -> collection 
+CREATE çode -> document 
+
